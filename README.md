@@ -29,7 +29,7 @@ This project analyzes MWG's pivot from a cyclical ICT retailer to a stable Consu
 | **Grocery (Bach Hoa Xanh)** | Star  | Expand network to Central/North Vietnam, target **63T VND** revenue based on forecast. |
 | **Indonesia (EraBlue)** | Question Mark  | Scale up to 150 stores, aiming for market leadership in Indonesia. |
 
-![image_url]()
+![image_url](https://github.com/quocanh3910/Quoc-Anh-s-Portfolio/blob/3e19e521b66438d398e202493757bb1bcdf1ad6d/Revenue%20Breakdown%20By%20Segments.png)
 ---
 
 ### Relative Valuation Matrix (2025F)
