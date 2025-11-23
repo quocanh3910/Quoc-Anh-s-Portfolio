@@ -9,7 +9,7 @@ Investment Horizon: 12 Months
 # Investment Thesis
 I issue a BUY recommendation with a target price of 91,100 VND, representing a +13.9% upside from the current market price.
 
-![image alt]()
+![image alt](https://github.com/quocanh3910/Quoc-Anh-s-Portfolio/blob/642aac73133833c4b66e832070a358981fda31ce/Screenshot%202025-11-23%20150944.png)
 
 Key Drivers
 * Operational Efficiency: Q3 2025 results show a record profit of 1,783 billion VND (2.2x YoY), validating the "Reduce Quantity – Enhance Quality" strategy.
