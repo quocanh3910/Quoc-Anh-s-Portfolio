@@ -9,7 +9,7 @@ Investment Horizon: 12 Months
 # Investment Thesis
 I issue a BUY recommendation with a target price of 91,100 VND, representing a +13.9% upside from the current market price.
 
-![image alt](<img width="1848" height="846" alt="image" src="https://github.com/user-attachments/assets/0d76f694-40c7-44aa-8c18-bc2cd78b09aa" />)
+![image alt](https://github.com/quocanh3910/Quoc-Anh-s-Portfolio/blob/d7c3f8fd95779d5db2ec26499e76e3b7bdc39f07/Screenshot%202025-11-23%20142652.png)
 
 Key Drivers
 * Operational Efficiency: Q3 2025 results show a record profit of 1,783 billion VND (2.2x YoY), validating the "Reduce Quantity – Enhance Quality" strategy.
@@ -35,7 +35,7 @@ The target price was derived using a **Discounted Cash Flow (DCF)** model under 
 | :--- | :--- | :--- |
 | **Net Revenue** | 153,923 | +14.6% |
 | **EBIT** | 6,403 | +22.5% |
-| **Net Profit (NPAT)** | 3,446 | +22.2% |
+| **EBIAT (NOPAT)** | 4596 | +16.52% |
 
 ### 3. Sensitivity Analysis (WACC vs. Terminal Growth)
 *Impact of changing interest rates and growth assumptions on Target Price (VND):*
@@ -53,7 +53,7 @@ This project analyzes MWG's pivot from a cyclical ICT retailer to a stable Consu
 | Segment | Status | 2025 Strategy |
 | :--- | :--- | :--- |
 | **ICT/CE (TGDD & DMX)** | Cash Cow  | Optimize OPEX, focus on premium products (Apple), generate cash for BHX. |
-| **Grocery (Bach Hoa Xanh)** | Star  | Expand network to Central/North Vietnam, target **63T VND** revenue. |
+| **Grocery (Bach Hoa Xanh)** | Star  | Expand network to Central/North Vietnam, target **63T VND** revenue based on forecast. |
 | **Indonesia (EraBlue)** | Question Mark  | Scale up to 150 stores, aiming for market leadership in Indonesia. |
 
 ---
