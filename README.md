@@ -5,7 +5,8 @@
 
 * Valuation Date: November 22, 2025 
 * Investment Horizon: 12 Months
-* Download MWG's Valuation Projects here: <a href="https://github.com/quocanh3910/Quoc-Anh-s-Portfolio/blob/ebfacbbc30810bc8f63ee436b923c1cc3243825f/MWG.xlsx">MWG Financial Valuation</a>
+* Download MWG's Valuation Projects here: <a href="https://github.com/quocanh3910/Quoc-Anh-s-Portfolio/blob/ebfacbbc30810bc8f63ee436b923c1cc3243825f/MWG.xlsx">MWG's Financial Valuation</a>
+* Download my MWG's Research Report here: <a href="https://drive.google.com/file/d/1zxhghoUx-UDsavnz2bmQUMPYG1v5L3jC/view?usp=drive_link">MWG's Research Report</a>
 
 # Investment Thesis
 I issue a BUY recommendation with a target price of 91,100 VND, representing a +13.9% upside from the current market price.
