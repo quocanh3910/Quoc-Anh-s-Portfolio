@@ -3,8 +3,9 @@ Project Overview
 
 * The analysis was conducted focusing on a deep dive into the company's restructuring post-2024, the profitability pivot of the Bách Hóa Xanh (BHX) grocery chain, and the expansion of the EraBlue joint venture in Indonesia.
 
-Valuation Date: November 22, 2025 
-Investment Horizon: 12 Months
+* Valuation Date: November 22, 2025 
+* Investment Horizon: 12 Months
+* Download MWG's Valuation Projects here: 
 
 # Investment Thesis
 I issue a BUY recommendation with a target price of 91,100 VND, representing a +13.9% upside from the current market price.
